@@ -1,0 +1,6 @@
+framework module avd_sdk {
+  umbrella header "avd_sdk.h"
+
+  export *
+  module * { export * }
+}
